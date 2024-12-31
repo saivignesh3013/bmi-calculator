@@ -10,6 +10,11 @@ A simple and intuitive BMI Calculator application that allows users to input the
 - Categorization of BMI into health status (Underweight, Normal, etc.).
 - Responsive design with optimized layouts for different screen sizes.
 
+## Live Preview
+
+Check out the live version of the application here:  
+[**BMI Calculator - Live Preview**](https://saivignesh3013.github.io/bmi-calculator/)
+
 ## Technologies Used
 
 - **HTML** for the structure of the application.
@@ -28,12 +33,7 @@ A simple and intuitive BMI Calculator application that allows users to input the
 
 ## Deployment
 
-This project can be hosted on GitHub Pages for easy access:
-
-1. Push the project to a GitHub repository.
-2. Go to the repository settings and enable GitHub Pages.
-3. Select the branch (usually `main`) and root directory.
-4. Access the application through the provided GitHub Pages URL.
+This project is hosted on GitHub Pages. You can view the live preview using the link above.
 
 ## Author
 
